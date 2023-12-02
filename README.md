@@ -10,5 +10,6 @@ Exercises from the Eloquent JS book (3rd Edition) @ https://eloquentjavascript.n
 | 02      | Complete!   |
 | 03      | Complete!   |
 | 04      | Complete!   |
-| 05      | 4th Left!   |
-| 06      | 4th Left!   |
+| 05      | Complete!   |
+| 06      | Complete!   |
+| 07      | To Start!   |
